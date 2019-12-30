@@ -8,7 +8,9 @@
       <Showcase />
     </client-only>
     <Pricing />
-    <Testimonials />
+    <client-only placeholder="Loading...">
+      <Testimonials />
+    </client-only>
     <Team />
     <Blog />
     <Contact />
