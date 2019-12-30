@@ -4,9 +4,13 @@
     <Services />
     <Business />
     <Features />
-    <Showcase />
+    <client-only placeholder="Loading...">
+      <Showcase />
+    </client-only>
     <Pricing />
-    <Testimonials />
+    <client-only placeholder="Loading...">
+      <Testimonials />
+    </client-only>
     <Team />
     <Blog />
     <Contact />

@@ -20,7 +20,7 @@
           class="col-lg-10 col-md-12 col-sm-12 col-xs-12 pr-20 pl-20"
           style="overflow: hidden;padding-bottom: 60px"
         >
-          <div id="client-testimonial" class="text-center owl-carousel">
+          <carousel id="client-testimonial" class="text-center owl-carousel">
             <div class="item">
               <div class="testimonial-item">
                 <div class="content-inner">
@@ -147,7 +147,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </carousel>
         </div>
       </div>
     </div>
