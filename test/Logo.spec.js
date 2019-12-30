@@ -6,4 +6,9 @@ describe('Logo', () => {
     const wrapper = mount(Logo)
     expect(wrapper.isVueInstance()).toBeTruthy()
   })
+
+  test('renders correctly', () => {
+    const wrapper = mount(Logo)
+    expect(wrapper.element).toMatchSnapshot()
+  })
 })
