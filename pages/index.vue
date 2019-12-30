@@ -91,13 +91,10 @@
         </div>
       </div>
     </header>
-    <!-- Header Section End -->
 
-    <!-- Services Section Start -->
     <section id="services" class="section">
       <div class="container">
         <div class="row">
-          <!-- Start Col -->
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="services-item text-center">
               <div class="icon">
@@ -110,8 +107,7 @@
               </p>
             </div>
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="services-item text-center">
               <div class="icon">
@@ -124,8 +120,7 @@
               </p>
             </div>
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="services-item text-center">
               <div class="icon">
@@ -138,17 +133,13 @@
               </p>
             </div>
           </div>
-          <!-- End Col -->
         </div>
       </div>
     </section>
-    <!-- Services Section End -->
 
-    <!-- Business Plan Section Start -->
     <section id="business-plan">
       <div class="container">
         <div class="row">
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-12 pl-0 pt-70 pr-5">
             <div class="business-item-img">
               <img
@@ -158,8 +149,7 @@
               />
             </div>
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-6 col-md-12 pl-4">
             <div class="business-item-info">
               <h3>Crafted For Business, Startup and Agency Websites</h3>
@@ -178,16 +168,12 @@
               <a class="btn btn-common" href="#">download</a>
             </div>
           </div>
-          <!-- End Col -->
         </div>
       </div>
     </section>
-    <!-- Business Plan Section End -->
 
-    <!-- Cool Fetatures Section Start -->
     <section id="features" class="section">
       <div class="container">
-        <!-- Start Row -->
         <div class="row">
           <div class="col-lg-12">
             <div class="features-text section-header text-center">
@@ -204,12 +190,9 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row featured-bg">
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-            <!-- Start Fetatures -->
             <div class="feature-item featured-border1">
               <div class="feature-icon float-left">
                 <i class="lni-coffee-cup"></i>
@@ -223,13 +206,9 @@
                 </p>
               </div>
             </div>
-            <!-- End Fetatures -->
           </div>
-          <!-- End Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-            <!-- Start Fetatures -->
             <div class="feature-item featured-border2">
               <div class="feature-icon float-left">
                 <i class="lni-briefcase"></i>
@@ -243,13 +222,9 @@
                 </p>
               </div>
             </div>
-            <!-- End Fetatures -->
           </div>
-          <!-- End Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-            <!-- Start Fetatures -->
             <div class="feature-item featured-border1">
               <div class="feature-icon float-left">
                 <i class="lni-invention"></i>
@@ -263,13 +238,9 @@
                 </p>
               </div>
             </div>
-            <!-- End Fetatures -->
           </div>
-          <!-- End Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-            <!-- Start Fetatures -->
             <div class="feature-item featured-border2">
               <div class="feature-icon float-left">
                 <i class="lni-layers"></i>
@@ -283,13 +254,9 @@
                 </p>
               </div>
             </div>
-            <!-- End Fetatures -->
           </div>
-          <!-- End Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-            <!-- Start Fetatures -->
             <div class="feature-item featured-border3">
               <div class="feature-icon float-left">
                 <i class="lni-reload"></i>
@@ -303,13 +270,9 @@
                 </p>
               </div>
             </div>
-            <!-- End Fetatures -->
           </div>
-          <!-- End Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-            <!-- Start Fetatures -->
             <div class="feature-item">
               <div class="feature-icon float-left">
                 <i class="lni-support"></i>
@@ -323,19 +286,13 @@
                 </p>
               </div>
             </div>
-            <!-- End Fetatures -->
           </div>
-          <!-- End Col -->
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- Cool Fetatures Section End -->
 
-    <!-- Recent Showcase Section Start -->
     <section id="showcase">
       <div class="container-fluid right-position">
-        <!-- Start Row -->
         <div class="row gradient-bg">
           <div class="col-lg-12">
             <div class="showcase-text section-header text-center">
@@ -352,8 +309,7 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row justify-content-center showcase-area">
           <div class="col-lg-12 col-md-12 col-xs-12 pr-0">
             <div class="showcase-slider owl-carousel">
@@ -780,15 +736,11 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- Recent Showcase Section End -->
 
-    <!-- Our Pricing Plan Section Start -->
     <section id="pricing" class="section">
       <div class="container">
-        <!-- Start Row -->
         <div class="row">
           <div class="col-lg-12">
             <div class="pricing-text section-header text-center">
@@ -805,10 +757,8 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row pricing-tables">
-          <!--  Start Col -->
           <div class="col-lg-4 col-md-4 col-xs-12">
             <div class="pricing-table text-center">
               <div class="pricing-details">
@@ -828,8 +778,7 @@
               </div>
             </div>
           </div>
-          <!--  End Col -->
-          <!--  Start Col -->
+
           <div class="col-lg-4 col-md-4 col-xs-12">
             <div class="pricing-table text-center">
               <div class="pricing-details">
@@ -849,8 +798,7 @@
               </div>
             </div>
           </div>
-          <!--  End Col -->
-          <!--  Start Col -->
+
           <div class="col-lg-4 col-md-4 col-xs-12">
             <div class="pricing-table text-center">
               <div class="pricing-details">
@@ -870,17 +818,12 @@
               </div>
             </div>
           </div>
-          <!--  End Col -->
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- Our Pricing Plan Section End -->
 
-    <!-- Client Testimoninals Section Start -->
     <section id="testimonial" class="section">
       <div class="container right-position">
-        <!-- Start Row -->
         <div class="row">
           <div class="col-md-12 col-sm-12">
             <div class="video-promo-content text-center">
@@ -894,8 +837,7 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row justify-content-center testimonial-area">
           <div
             class="col-lg-10 col-md-12 col-sm-12 col-xs-12 pr-20 pl-20"
@@ -1031,15 +973,11 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- Client Testimoninals Section End -->
 
-    <!-- Team section Start -->
     <section id="team" class="section">
       <div class="container">
-        <!-- Start Row -->
         <div class="row">
           <div class="col-lg-12">
             <div class="team-text section-header text-center">
@@ -1056,10 +994,8 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row">
-          <!-- Start Col -->
           <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
@@ -1087,9 +1023,7 @@
               </div>
             </div>
           </div>
-          <!-- Start Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
@@ -1117,9 +1051,7 @@
               </div>
             </div>
           </div>
-          <!-- Start Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
@@ -1147,9 +1079,7 @@
               </div>
             </div>
           </div>
-          <!-- Start Col -->
 
-          <!-- Start Col -->
           <div class="col-lg-3 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
@@ -1177,18 +1107,12 @@
               </div>
             </div>
           </div>
-          <!-- Start Col -->
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- Team section End -->
 
-    <!-- Blog Section -->
     <section id="blog" class="section">
-      <!-- Container Starts -->
       <div class="container">
-        <!-- Start Row -->
         <div class="row">
           <div class="col-lg-12">
             <div class="blog-text section-header text-center">
@@ -1205,12 +1129,9 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row">
-          <!-- Start Col -->
           <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
             <div class="blog-item-wrapper">
               <div class="blog-item-img">
                 <a href="single-post.html">
@@ -1239,12 +1160,9 @@
                 >
               </div>
             </div>
-            <!-- Blog Item Wrapper Ends-->
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
             <div class="blog-item-wrapper">
               <div class="blog-item-img">
                 <a href="single-post.html">
@@ -1273,12 +1191,9 @@
                 >
               </div>
             </div>
-            <!-- Blog Item Wrapper Ends-->
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-4 col-md-6 col-xs-12 blog-item">
-            <!-- Blog Item Starts -->
             <div class="blog-item-wrapper">
               <div class="blog-item-img">
                 <a href="single-post.html">
@@ -1307,20 +1222,13 @@
                 >
               </div>
             </div>
-            <!-- Blog Item Wrapper Ends-->
           </div>
-          <!-- End Col -->
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- blog Section End -->
 
-    <!-- Contact Us Section -->
     <section id="contact" class="section">
-      <!-- Container Starts -->
       <div class="container">
-        <!-- Start Row -->
         <div class="row">
           <div class="col-lg-12">
             <div class="contact-text section-header text-center">
@@ -1337,10 +1245,8 @@
             </div>
           </div>
         </div>
-        <!-- End Row -->
-        <!-- Start Row -->
+
         <div class="row">
-          <!-- Start Col -->
           <div class="col-lg-6 col-md-12">
             <form id="contactForm">
               <div class="row">
@@ -1424,41 +1330,30 @@
               </div>
             </form>
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-1"></div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-4 col-md-12">
             <div class="contact-img">
               <img src="img/contact/01.png" class="img-fluid" alt="" />
             </div>
           </div>
-          <!-- End Col -->
-          <!-- Start Col -->
+
           <div class="col-lg-1"></div>
-          <!-- End Col -->
         </div>
-        <!-- End Row -->
       </div>
     </section>
-    <!-- Contact Us Section End -->
 
-    <!-- Footer Section Start -->
     <footer>
-      <!-- Footer Area Start -->
       <section id="footer-Content">
         <div class="container">
-          <!-- Start Row -->
           <div class="row">
-            <!-- Start Col -->
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="footer-logo">
                 <img src="img/footer-logo.png" alt="" />
               </div>
             </div>
-            <!-- End Col -->
-            <!-- Start Col -->
+
             <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="widget">
                 <h3 class="block-title">Company</h3>
@@ -1470,8 +1365,7 @@
                 </ul>
               </div>
             </div>
-            <!-- End Col -->
-            <!-- Start Col -->
+
             <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="widget">
                 <h3 class="block-title">Product</h3>
@@ -1484,8 +1378,7 @@
                 </ul>
               </div>
             </div>
-            <!-- End Col -->
-            <!-- Start Col -->
+
             <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="widget">
                 <h3 class="block-title">Download App</h3>
@@ -1498,8 +1391,7 @@
                 </ul>
               </div>
             </div>
-            <!-- End Col -->
-            <!-- Start Col -->
+
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="widget">
                 <h3 class="block-title">Subscribe Now</h3>
@@ -1517,32 +1409,26 @@
                 </div>
               </div>
             </div>
-            <!-- End Col -->
           </div>
-          <!-- End Row -->
         </div>
-        <!-- Copyright Start  -->
 
         <div class="copyright">
           <div class="container">
-            <!-- Star Row -->
             <div class="row">
               <div class="col-md-12">
                 <div class="site-info text-center">
                   <p>
-                    Crafted by
-                    <a href="http://uideck.com" rel="nofollow">UIdeck</a>
+                    Made With Love By
+                    <a href="https://doregan.com" rel="nofollow"
+                      >David O'Regan</a
+                    >
                   </p>
                 </div>
               </div>
-              <!-- End Col -->
             </div>
-            <!-- End Row -->
           </div>
         </div>
-        <!-- Copyright End -->
       </section>
-      <!-- Footer area End -->
     </footer>
   </div>
 </template>
