@@ -5,57 +5,34 @@
         <span></span>
         <span></span>
       </div>
-      <nav
+      <b-navbar
+        toggleable="lg"
+        variant="faded"
+        type="light"
         class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar"
       >
-        <div class="container">
-          <a href="index.html" class="navbar-brand"
-            ><img src="img/logo.png" alt=""
-          /></a>
-          <button
-            class="navbar-toggler"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarCollapse"
-            aria-controls="navbarCollapse"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <i class="lni-menu"></i>
-          </button>
-          <div id="navbarCollapse" class="collapse navbar-collapse">
-            <ul class="navbar-nav mr-auto w-100 justify-content-end">
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#home">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#services">About</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#features">Services</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#showcase">Showcase</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#pricing">Pricing</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#team">Team</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#blog">Blog</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link page-scroll" href="#contact">Contact</a>
-              </li>
-              <li class="nav-item">
-                <a class="btn btn-singin" href="#">Download</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
+        <b-navbar-brand href="#">Blue Shinners</b-navbar-brand>
+        <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+        <b-collapse id="nav-collapse" is-nav>
+          <b-navbar-nav class="ml-auto">
+            <b-nav-item-dropdown text="Lang" right>
+              <b-dropdown-item href="#">EN</b-dropdown-item>
+              <b-dropdown-item href="#">ES</b-dropdown-item>
+              <b-dropdown-item href="#">RU</b-dropdown-item>
+              <b-dropdown-item href="#">FA</b-dropdown-item>
+            </b-nav-item-dropdown>
+
+            <b-nav-item-dropdown right>
+              <!-- Using 'button-content' slot -->
+              <template v-slot:button-content>
+                <em>User</em>
+              </template>
+              <b-dropdown-item href="#">Profile</b-dropdown-item>
+              <b-dropdown-item href="#">Sign Out</b-dropdown-item>
+            </b-nav-item-dropdown>
+          </b-navbar-nav>
+        </b-collapse>
+      </b-navbar>
       <div class="container">
         <div class="row space-100">
           <div class="col-lg-6 col-md-12 col-xs-12">
@@ -1344,98 +1321,17 @@
       </div>
     </section>
 
-    <footer>
-      <section id="footer-Content">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <div class="footer-logo">
-                <img src="img/footer-logo.png" alt="" />
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <div class="widget">
-                <h3 class="block-title">Company</h3>
-                <ul class="menu">
-                  <li><a href="#"> - About Us</a></li>
-                  <li><a href="#">- Career</a></li>
-                  <li><a href="#">- Blog</a></li>
-                  <li><a href="#">- Press</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <div class="widget">
-                <h3 class="block-title">Product</h3>
-                <ul class="menu">
-                  <li><a href="#"> - Customer Service</a></li>
-                  <li><a href="#">- Enterprise</a></li>
-                  <li><a href="#">- Price</a></li>
-                  <li><a href="#">- Scurity</a></li>
-                  <li><a href="#">- Why SLICK?</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <div class="widget">
-                <h3 class="block-title">Download App</h3>
-                <ul class="menu">
-                  <li><a href="#"> - Android App</a></li>
-                  <li><a href="#">- IOS App</a></li>
-                  <li><a href="#">- Windows App</a></li>
-                  <li><a href="#">- Play Store</a></li>
-                  <li><a href="#">- IOS Store</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-              <div class="widget">
-                <h3 class="block-title">Subscribe Now</h3>
-                <p>
-                  Appropriately implement calysts for change visa wireless
-                  catalysts for change.
-                </p>
-                <div class="subscribe-area">
-                  <input
-                    type="email"
-                    class="form-control"
-                    placeholder="Enter Email"
-                  />
-                  <span><i class="lni-chevron-right"></i></span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="copyright">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-12">
-                <div class="site-info text-center">
-                  <p>
-                    Made With Love By
-                    <a href="https://doregan.com" rel="nofollow"
-                      >David O'Regan</a
-                    >
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-    </footer>
+    <Footer />
   </div>
 </template>
 
 <script>
+import Footer from '~/components/organisms/Footer'
+
 export default {
-  components: {}
+  components: {
+    Footer
+  }
 }
 </script>
 

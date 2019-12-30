@@ -367,6 +367,10 @@ Domain Path:      /languages/
    .logo-menu a {
      font-size: 20px;
      color: #fff; }
+
+    .navbar {
+      background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%) !important;
+    }
    
    .menu-bg {
      background: #5533ff;
