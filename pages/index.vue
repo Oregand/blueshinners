@@ -4,7 +4,9 @@
     <Services />
     <Business />
     <Features />
-    <Showcase />
+    <client-only placeholder="Loading...">
+      <Showcase />
+    </client-only>
     <Pricing />
     <Testimonials />
     <Team />

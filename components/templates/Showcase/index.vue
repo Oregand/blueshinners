@@ -20,7 +20,7 @@
 
       <div class="row justify-content-center showcase-area">
         <div class="col-lg-12 col-md-12 col-xs-12 pr-0">
-          <div class="showcase-slider owl-carousel">
+          <carousel class="showcase-slider owl-carousel">
             <div class="item">
               <div class="screenshot-thumb">
                 <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
@@ -441,7 +441,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </carousel>
         </div>
       </div>
     </div>
