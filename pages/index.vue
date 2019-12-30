@@ -1,86 +1,8 @@
 <template>
   <div>
     <Header />
-
-    <section id="services" class="section">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 col-md-6 col-xs-12">
-            <div class="services-item text-center">
-              <div class="icon">
-                <i class="lni-cog"></i>
-              </div>
-              <h4>Bootstrap 4</h4>
-              <p>
-                Share processes and data secure lona need to know basis Our team
-                assured your web site is always safe.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 col-xs-12">
-            <div class="services-item text-center">
-              <div class="icon">
-                <i class="lni-brush"></i>
-              </div>
-              <h4>Slick Design</h4>
-              <p>
-                Share processes and data secure lona need to know basis Our team
-                assured your web site is always safe.
-              </p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 col-xs-12">
-            <div class="services-item text-center">
-              <div class="icon">
-                <i class="lni-heart"></i>
-              </div>
-              <h4>Crafted with Love</h4>
-              <p>
-                Share processes and data secure lona need to know basis Our team
-                assured your web site is always safe.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section id="business-plan">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 col-md-12 pl-0 pt-70 pr-5">
-            <div class="business-item-img">
-              <img
-                src="img/business/business-img.png"
-                class="img-fluid"
-                alt=""
-              />
-            </div>
-          </div>
-
-          <div class="col-lg-6 col-md-12 pl-4">
-            <div class="business-item-info">
-              <h3>Crafted For Business, Startup and Agency Websites</h3>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                <br />
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                minim <br />
-                veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea <br />
-                commodo consequat. Duis aute irure dolor in reprehenderit in
-                voluptate <br />
-                velit esse cillum dolore eu fugiat nulla pariatur.
-              </p>
-
-              <a class="btn btn-common" href="#">download</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <Services />
+    <Business />
 
     <section id="features" class="section">
       <div class="container">
@@ -1137,123 +1059,7 @@
       </div>
     </section>
 
-    <section id="contact" class="section">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="contact-text section-header text-center">
-              <div>
-                <h2 class="section-title">Get In Touch</h2>
-                <div class="desc-text">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do
-                  </p>
-                  <p>eiusmod tempor incididunt ut labore et dolore.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-6 col-md-12">
-            <form id="contactForm">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input
-                      id="name"
-                      type="text"
-                      class="form-control"
-                      name="name"
-                      placeholder="Name"
-                      required
-                      data-error="Please enter your name"
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input
-                      id="msg_subject"
-                      type="text"
-                      placeholder="Subject"
-                      class="form-control"
-                      name="msg_subject"
-                      required
-                      data-error="Please enter your subject"
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input
-                      id="email"
-                      type="text"
-                      class="form-control"
-                      name="email"
-                      placeholder="Email"
-                      required
-                      data-error="Please enter your Email"
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input
-                      id="budget"
-                      type="text"
-                      placeholder="Budget"
-                      class="form-control"
-                      name="budget"
-                      required
-                      data-error="Please enter your Budget"
-                    />
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-12">
-                  <div class="form-group">
-                    <textarea
-                      id="message"
-                      class="form-control"
-                      name="message"
-                      placeholder="Write Message"
-                      rows="4"
-                      data-error="Write your message"
-                      required
-                    ></textarea>
-                    <div class="help-block with-errors"></div>
-                  </div>
-                  <div class="submit-button">
-                    <button id="submit" class="btn btn-common" type="submit">
-                      Submit
-                    </button>
-                    <div id="msgSubmit" class="h3 hidden"></div>
-                    <div class="clearfix"></div>
-                  </div>
-                </div>
-              </div>
-            </form>
-          </div>
-
-          <div class="col-lg-1"></div>
-
-          <div class="col-lg-4 col-md-12">
-            <div class="contact-img">
-              <img src="img/contact/01.png" class="img-fluid" alt="" />
-            </div>
-          </div>
-
-          <div class="col-lg-1"></div>
-        </div>
-      </div>
-    </section>
-
+    <Contact />
     <Footer />
   </div>
 </template>
@@ -1261,11 +1067,17 @@
 <script>
 import Header from '~/components/organisms/Header'
 import Footer from '~/components/organisms/Footer'
+import Services from '~/components/templates/Services'
+import Business from '~/components/templates/Business'
+import Contact from '~/components/templates/Contact'
 
 export default {
   components: {
     Header,
-    Footer
+    Footer,
+    Services,
+    Business,
+    Contact
   }
 }
 </script>
