@@ -8,10 +8,10 @@
               <h2 class="section-title">Get In Touch</h2>
               <div class="desc-text">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do
+                  If you have a question about Blue, or want to offer a
+                  memorial, please reach out.
                 </p>
-                <p>eiusmod tempor incididunt ut labore et dolore.</p>
+                <p>We do our best to respond to everyone.</p>
               </div>
             </div>
           </div>
@@ -20,94 +20,14 @@
 
       <div class="row">
         <div class="col-lg-6 col-md-12">
-          <form id="contactForm">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="name"
-                    type="text"
-                    class="form-control"
-                    name="name"
-                    placeholder="Name"
-                    required
-                    data-error="Please enter your name"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="msg_subject"
-                    type="text"
-                    placeholder="Subject"
-                    class="form-control"
-                    name="msg_subject"
-                    required
-                    data-error="Please enter your subject"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="email"
-                    type="text"
-                    class="form-control"
-                    name="email"
-                    placeholder="Email"
-                    required
-                    data-error="Please enter your Email"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="budget"
-                    type="text"
-                    placeholder="Budget"
-                    class="form-control"
-                    name="budget"
-                    required
-                    data-error="Please enter your Budget"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-12">
-                <div class="form-group">
-                  <textarea
-                    id="message"
-                    class="form-control"
-                    name="message"
-                    placeholder="Write Message"
-                    rows="4"
-                    data-error="Write your message"
-                    required
-                  ></textarea>
-                  <div class="help-block with-errors"></div>
-                </div>
-                <div class="submit-button">
-                  <button id="submit" class="btn btn-common" type="submit">
-                    Submit
-                  </button>
-                  <div id="msgSubmit" class="h3 hidden"></div>
-                  <div class="clearfix"></div>
-                </div>
-              </div>
-            </div>
-          </form>
+          <ContactForm />
         </div>
 
         <div class="col-lg-1"></div>
 
         <div class="col-lg-4 col-md-12">
           <div class="contact-img">
-            <img src="img/contact/01.png" class="img-fluid" alt="" />
+            <img src="~/assets/img/01.png" class="img-fluid" alt="" />
           </div>
         </div>
 
@@ -118,8 +38,12 @@
 </template>
 
 <script>
+import ContactForm from '~/components/organisms/Form/Contact'
+
 export default {
-  components: {}
+  components: {
+    ContactForm
+  }
 }
 </script>
 
