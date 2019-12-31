@@ -7,7 +7,7 @@
             <a
               id="play-video"
               class="video-play-button video-popup"
-              href="https://www.youtube.com/watch?v=Y4fodpIwal8&list=RDXCElIIYx_8s&index=13"
+              href="https://www.youtube.com/watch?v=b2fN77z0tkE"
             >
               <span></span>
             </a>
@@ -20,7 +20,7 @@
           class="col-lg-10 col-md-12 col-sm-12 col-xs-12 pr-20 pl-20"
           style="overflow: hidden;padding-bottom: 60px"
         >
-          <carousel id="client-testimonial" class="text-center owl-carousel">
+          <carousel id="client-testimonial" :items="1" class="text-center">
             <div class="item">
               <div class="testimonial-item">
                 <div class="content-inner">
@@ -38,7 +38,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/testimonial/01.png" alt="" />
                 </div>
               </div>
             </div>
@@ -59,7 +59,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/testimonial/01.png" alt="" />
                 </div>
               </div>
             </div>
@@ -80,7 +80,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/testimonial/01.png" alt="" />
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/testimonial/01.png" alt="" />
                 </div>
               </div>
             </div>
@@ -122,7 +122,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/testimonial/01.png" alt="" />
                 </div>
               </div>
             </div>
@@ -143,7 +143,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/testimonial/01.png" alt="" />
                 </div>
               </div>
             </div>

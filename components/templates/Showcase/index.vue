@@ -20,10 +20,14 @@
 
       <div class="row justify-content-center showcase-area">
         <div class="col-lg-12 col-md-12 col-xs-12 pr-0">
-          <carousel class="showcase-slider owl-carousel">
+          <carousel :items="5" class="showcase-slider">
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/01.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -44,7 +48,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/02.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -65,7 +73,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/03.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -86,7 +98,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/04.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -107,7 +123,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/05.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -128,7 +148,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/01.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -149,7 +173,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/02.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -170,7 +198,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/03.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -191,7 +223,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/04.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -212,7 +248,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/05.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -233,7 +273,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/01.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -254,7 +298,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/02.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -275,7 +323,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/03.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -296,7 +348,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/04.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -317,7 +373,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/05.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -338,7 +398,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/01.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/01.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -359,7 +423,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/02.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/02.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -380,7 +448,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/03.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/03.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -401,7 +473,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/04.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/04.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -422,7 +498,11 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="img/showcase/05.jpg" class="img-fluid" alt="" />
+                <img
+                  src="~/assets/img/showcase/05.jpg"
+                  class="img-fluid"
+                  alt=""
+                />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
