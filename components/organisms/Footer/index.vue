@@ -6,7 +6,7 @@
           <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12">
               <div class="footer-logo">
-                <img src="img/footer-logo.png" alt="" />
+                <img src="https://nuxtjs.org/logos/nuxt.svg" alt="" />
               </div>
             </div>
 
