@@ -20,87 +20,67 @@
 
       <div class="row">
         <div class="col-lg-6 col-md-12">
-          <form id="contactForm">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="name"
-                    type="text"
-                    class="form-control"
-                    name="name"
-                    placeholder="Name"
-                    required
-                    data-error="Please enter your name"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="msg_subject"
-                    type="text"
-                    placeholder="Subject"
-                    class="form-control"
-                    name="msg_subject"
-                    required
-                    data-error="Please enter your subject"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="email"
-                    type="text"
-                    class="form-control"
-                    name="email"
-                    placeholder="Email"
-                    required
-                    data-error="Please enter your Email"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input
-                    id="budget"
-                    type="text"
-                    placeholder="Budget"
-                    class="form-control"
-                    name="budget"
-                    required
-                    data-error="Please enter your Budget"
-                  />
-                  <div class="help-block with-errors"></div>
-                </div>
-              </div>
-              <div class="col-md-12">
-                <div class="form-group">
-                  <textarea
-                    id="message"
-                    class="form-control"
-                    name="message"
-                    placeholder="Write Message"
-                    rows="4"
-                    data-error="Write your message"
-                    required
-                  ></textarea>
-                  <div class="help-block with-errors"></div>
-                </div>
-                <div class="submit-button">
-                  <button id="submit" class="btn btn-common" type="submit">
-                    Submit
-                  </button>
-                  <div id="msgSubmit" class="h3 hidden"></div>
-                  <div class="clearfix"></div>
-                </div>
-              </div>
-            </div>
-          </form>
+          <b-form @submit="onSubmit" @reset="onReset" v-if="show">
+            <b-form-group
+              id="input-group-1"
+              label="Email address:"
+              label-for="input-1"
+              description="We'll never share your email with anyone else."
+            >
+              <b-form-input
+                id="input-1"
+                v-model="form.email"
+                type="email"
+                required
+                placeholder="Enter email"
+              />
+            </b-form-group>
+            <b-form-group
+              id="input-group-2"
+              label="Name:"
+              label-for="input-2"
+              description="Your contact name."
+            >
+              <b-form-input
+                id="input-2"
+                v-model="form.name"
+                type="text"
+                required
+                placeholder="Enter name"
+              />
+            </b-form-group>
+            <b-form-group
+              id="input-group-3"
+              label="Subject:"
+              label-for="input-3"
+              description="Your message subject."
+            >
+              <b-form-input
+                id="input-3"
+                v-model="form.subject"
+                type="text"
+                required
+                placeholder="Enter subject"
+              />
+            </b-form-group>
+            <b-form-group
+              id="input-group-4"
+              label="Message:"
+              label-for="input-4"
+              description="Your message."
+            >
+              <b-form-input
+                id="input-4"
+                v-model="form.message"
+                type="textarea"
+                required
+                placeholder="Enter message"
+              />
+            </b-form-group>
+
+            <b-button type="submit" variant="primary">Submit</b-button>
+            <b-button type="reset" variant="danger">Reset</b-button>
+          </b-form>
         </div>
 
         <div class="col-lg-1"></div>
@@ -119,7 +99,35 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
+  data() {
+    return {
+      form: {
+        email: '',
+        name: '',
+        subject: '',
+        message: ''
+      },
+      show: true
+    }
+  },
+  methods: {
+    onSubmit(e) {
+      e.preventDefault()
+      alert(JSON.stringify(this.form))
+    },
+    onReset(e) {
+      e.preventDefault()
+      this.form.name = ''
+      this.form.email = ''
+      this.form.subject = ''
+      this.form.message = ''
+      this.show = false
+      this.$nextTick(() => {
+        this.show = true
+      })
+    }
+  }
 }
 </script>
 
