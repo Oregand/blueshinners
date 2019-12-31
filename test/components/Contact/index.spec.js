@@ -9,7 +9,7 @@ it('reveals a notification when submitted', async () => {
   const wrapper = mount(Contact, {
     localVue
   })
-  wrapper.find('input-1').setValue('davidoregan91@gmail.com')
+  wrapper.find('#input-1').setValue('davidoregan91@gmail.com')
   wrapper.find('form').trigger('submit.prevent')
   await wrapper.vm.$nextTick()
 
