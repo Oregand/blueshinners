@@ -9,5 +9,4 @@ cache:
 test:
   stage: test
   script:
-    - npm install --progress=false
     - npm run test

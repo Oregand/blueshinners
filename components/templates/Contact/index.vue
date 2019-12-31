@@ -8,10 +8,10 @@
               <h2 class="section-title">Get In Touch</h2>
               <div class="desc-text">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do
+                  If you have a question about Blue, or want to offer a
+                  memorial, please reach out.
                 </p>
-                <p>eiusmod tempor incididunt ut labore et dolore.</p>
+                <p>We do our best to respond to everyone.</p>
               </div>
             </div>
           </div>
@@ -107,7 +107,7 @@
 
         <div class="col-lg-4 col-md-12">
           <div class="contact-img">
-            <img src="img/contact/01.png" class="img-fluid" alt="" />
+            <img src="~/assets/img/01.png" class="img-fluid" alt="" />
           </div>
         </div>
 
