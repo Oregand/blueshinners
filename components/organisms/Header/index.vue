@@ -11,7 +11,12 @@
         type="light"
         class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar"
       >
-        <b-navbar-brand href="#">Blue Shinners</b-navbar-brand>
+        <b-navbar-brand href="https://nuxtjs.org">
+          <img
+            src="https://nuxtjs.org/logos/nuxt-emoji-white.png"
+            height="50"
+          />
+        </b-navbar-brand>
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="ml-auto">
@@ -23,7 +28,6 @@
             </b-nav-item-dropdown>
 
             <b-nav-item-dropdown right>
-              <!-- Using 'button-content' slot -->
               <template v-slot:button-content>
                 <em>User</em>
               </template>
@@ -37,10 +41,10 @@
         <div class="row space-100">
           <div class="col-lg-6 col-md-12 col-xs-12">
             <div class="contents">
-              <h2 class="head-title">You are Using Free Lite Version</h2>
+              <h2 class="head-title">In Loving Memory Of Blue Shinners</h2>
               <p>
-                Please, Purchase full version of Slick to get all pages,
-                features and permission to use in commercial projects
+                This website is dedicated to the memory of a great man with a
+                big vision.
               </p>
               <div class="header-button">
                 <a

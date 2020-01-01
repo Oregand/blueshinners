@@ -27,7 +27,10 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [{ src: '~/plugins/owl.js', mode: 'client' }],
+  plugins: [
+    { src: '~/plugins/owl.js', mode: 'client' },
+    '~/plugins/smooth-scroll'
+  ],
   /*
    ** Nuxt.js dev-modules
    */

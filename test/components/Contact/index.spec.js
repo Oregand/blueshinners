@@ -1,4 +1,5 @@
 import { mount, createLocalVue } from '@vue/test-utils'
+// eslint-disable-next-line import/no-named-as-default
 import BootstrapVue from 'bootstrap-vue'
 import Contact from '@/components/organisms/Form/Contact'
 
