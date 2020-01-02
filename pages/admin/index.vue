@@ -1,7 +1,12 @@
 <template>
   <div>
     <Header />
-    <div>Test</div>
+    <div v-if="$auth.loggedIn">
+      Test
+    </div>
+    <div v-if="!$auth.loggedIn">
+      Not logged in
+    </div>
     <Footer />
   </div>
 </template>
