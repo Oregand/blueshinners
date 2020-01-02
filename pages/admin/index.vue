@@ -2,7 +2,7 @@
   <div>
     <Header />
     <div v-if="$auth.loggedIn">
-      Test
+      {{ posts }}
     </div>
     <div v-if="!$auth.loggedIn">
       Not logged in
@@ -19,6 +19,22 @@ export default {
   components: {
     Header,
     Footer
+  },
+  data() {
+    return {
+      posts: []
+    }
+  },
+  created() {
+    this.fetchInstagram()
+  },
+  methods: {
+    async fetchInstagram() {
+      const data = await this.$axios.$get(
+        'https://www.instagram.com/web/search/topsearch/?context=blended&query=blueshinners'
+      )
+      this.posts = data
+    }
   }
 }
 </script>

@@ -11,7 +11,7 @@
         type="light"
         class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar"
       >
-        <b-navbar-brand href="https://nuxtjs.org">
+        <b-navbar-brand href="/">
           <img
             src="https://nuxtjs.org/logos/nuxt-emoji-white.png"
             height="50"
@@ -25,7 +25,7 @@
             <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
             <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
             <a v-smooth-scroll class="nav-link" href="#contact">Contact</a>
-            <b-nav-item v-if="$auth.loggedIn">
+            <b-nav-item v-if="$auth.loggedIn" href="/admin">
               Dashboard
             </b-nav-item>
             <b-nav-item-dropdown right>
