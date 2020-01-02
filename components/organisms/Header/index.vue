@@ -20,6 +20,11 @@
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="ml-auto">
+            <a v-smooth-scroll class="nav-link" href="#services">Services</a>
+            <a v-smooth-scroll class="nav-link" href="#business">Business</a>
+            <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
+            <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
+            <a v-smooth-scroll class="nav-link" href="#contact">Contact</a>
             <b-nav-item v-if="$auth.loggedIn">
               Dashboard
             </b-nav-item>
