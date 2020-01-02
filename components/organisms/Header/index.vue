@@ -31,8 +31,12 @@
               <template v-slot:button-content>
                 <em>User</em>
               </template>
-              <b-dropdown-item href="#">Profile</b-dropdown-item>
-              <b-dropdown-item href="#">Sign Out</b-dropdown-item>
+              <b-dropdown-item v-if="!$auth.loggedIn" @click="login()" href="#"
+                >Login</b-dropdown-item
+              >
+              <b-dropdown-item v-if="$auth.loggedIn" @click="logout()" href="#"
+                >Sign Out</b-dropdown-item
+              >
             </b-nav-item-dropdown>
           </b-navbar-nav>
         </b-collapse>
@@ -77,7 +81,15 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
+  methods: {
+    login() {
+      this.$auth.loginWith('auth0')
+    },
+    async logout() {
+      await this.$auth.logout()
+    }
+  }
 }
 </script>
 

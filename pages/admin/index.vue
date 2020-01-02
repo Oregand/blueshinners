@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-      <div>Test</div>
+    <div>Test</div>
     <Footer />
   </div>
 </template>
@@ -11,7 +11,10 @@ import Header from '~/components/organisms/Header'
 import Footer from '~/components/organisms/Footer'
 
 export default {
-  components: {}
+  components: {
+    Header,
+    Footer
+  }
 }
 </script>
 

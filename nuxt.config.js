@@ -29,7 +29,7 @@ export default {
    */
   plugins: [
     { src: '~/plugins/owl.js', mode: 'client' },
-    '~/plugins/smooth-scroll'
+    { src: '~/plugins/smooth-scroll', mode: 'client' }
   ],
   /*
    ** Nuxt.js dev-modules
@@ -50,13 +50,28 @@ export default {
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
-    '@nuxtjs/dotenv'
+    '@nuxtjs/dotenv',
+    '@nuxtjs/auth'
   ],
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
    */
   axios: {},
+  auth: {
+    redirect: {
+      login: '/login',
+      logout: '/logout',
+      callback: '/callback',
+      home: '/'
+    },
+    strategies: {
+      auth0: {
+        domain: 'doregan.eu.auth0.com',
+        client_id: '6kE8FfP3MxSySvNPPWQqzUE4h4Ep48ZV'
+      }
+    }
+  },
   /*
    ** Build configuration
    */
