@@ -562,6 +562,8 @@ Domain Path:      /languages/
        left: 0;
        right: 0;
        top: 30%; }
+       #services .services-item .icon img {
+        border-radius: 50%; }
      #services .services-item h4 {
        font-size: 20px;
        font-weight: 600;
@@ -636,6 +638,10 @@ Domain Path:      /languages/
            left: 0;
            right: 0;
            top: 32%; }
+           #features .feature-item .feature-icon img {
+             border-radius: 50%;
+             height: 100%;
+            }
        #features .feature-item h4 {
          font-size: 20px;
          font-weight: 600;

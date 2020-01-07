@@ -5,7 +5,7 @@
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="services-item text-center">
             <div class="icon">
-              <i class="lni-cog"></i>
+              <img src="~/assets/img/9.jpg" alt="" class="img-fluid" />
             </div>
             <h4>Nine Time Mr Ireland</h4>
             <p>
@@ -18,7 +18,7 @@
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="services-item text-center">
             <div class="icon">
-              <i class="lni-brush"></i>
+              <img src="~/assets/img/7.jpg" alt="" class="img-fluid" />
             </div>
             <h4>Limerick Local</h4>
             <p>
@@ -31,7 +31,7 @@
         <div class="col-lg-4 col-md-6 col-xs-12">
           <div class="services-item text-center">
             <div class="icon">
-              <i class="lni-heart"></i>
+              <img src="~/assets/img/8.jpg" alt="" class="img-fluid" />
             </div>
             <h4>Coach</h4>
             <p>

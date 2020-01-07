@@ -22,7 +22,7 @@
         <div class="col-lg-6 col-md-6 col-xs-12 p-0">
           <div class="feature-item featured-border1">
             <div class="feature-icon float-left">
-              <i class="lni-coffee-cup"></i>
+              <img src="~/assets/img/3.jpg" alt="" class="img-fluid" />
             </div>
             <div class="feature-info float-left">
               <h4>Always Remembered</h4>
@@ -40,7 +40,7 @@
         <div class="col-lg-6 col-md-6 col-xs-12 p-0">
           <div class="feature-item featured-border2">
             <div class="feature-icon float-left">
-              <i class="lni-briefcase"></i>
+              <img src="~/assets/img/4.jpg" alt="" class="img-fluid" />
             </div>
             <div class="feature-info float-left">
               <h4>Never Forgotten</h4>
@@ -59,7 +59,7 @@
         <div class="col-lg-6 col-md-6 col-xs-12 p-0">
           <div class="feature-item featured-border3">
             <div class="feature-icon float-left">
-              <i class="lni-reload"></i>
+              <img src="~/assets/img/5.jpg" alt="" class="img-fluid" />
             </div>
             <div class="feature-info float-left">
               <h4>A Legend</h4>
@@ -78,7 +78,7 @@
         <div class="col-lg-6 col-md-6 col-xs-12 p-0">
           <div class="feature-item">
             <div class="feature-icon float-left">
-              <i class="lni-support"></i>
+              <img src="~/assets/img/6.jpg" alt="" class="img-fluid" />
             </div>
             <div class="feature-info float-left">
               <h4>A loving family man</h4>
