@@ -7,10 +7,10 @@
             <div class="icon">
               <i class="lni-cog"></i>
             </div>
-            <h4>Bootstrap 4</h4>
+            <h4>Nine Time Mr Ireland</h4>
             <p>
-              Share processes and data secure lona need to know basis Our team
-              assured your web site is always safe.
+              This legendary Irish bodybuilder who won Mr. Ireland nine times. A
+              humble man who wanted more from life.
             </p>
           </div>
         </div>
@@ -20,10 +20,10 @@
             <div class="icon">
               <i class="lni-brush"></i>
             </div>
-            <h4>Slick Design</h4>
+            <h4>Limerick Local</h4>
             <p>
-              Share processes and data secure lona need to know basis Our team
-              assured your web site is always safe.
+              A born and bread Limerick man who wanted to bring the sport of
+              bodybuilding to Ireland.
             </p>
           </div>
         </div>
@@ -33,10 +33,10 @@
             <div class="icon">
               <i class="lni-heart"></i>
             </div>
-            <h4>Crafted with Love</h4>
+            <h4>Coach</h4>
             <p>
-              Share processes and data secure lona need to know basis Our team
-              assured your web site is always safe.
+              Wanting to give back, a coach who wanted to teach others how to be
+              their best self.
             </p>
           </div>
         </div>

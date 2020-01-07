@@ -589,6 +589,8 @@ Domain Path:      /languages/
        #business-plan .business-item-info p {
          font-size: 16px;
          margin-bottom: 20px; }
+         #business-plan .business-item-img img {
+          border-radius: 5px; }
    
    /* ==========================================================================
       Features 
@@ -843,7 +845,7 @@ Domain Path:      /languages/
       ========================================================================== */
    #testimonial {
      margin-bottom: 270px;
-     background: url('~assets/img/testimonial-bg.jpg') no-repeat center center;
+     background: url('~assets/img/3.jpg') no-repeat center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;

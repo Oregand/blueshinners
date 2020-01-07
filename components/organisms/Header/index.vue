@@ -53,14 +53,14 @@
               </p>
               <div class="header-button">
                 <a
-                  href="https://rebrand.ly/slick-ud"
+                  href="https://www.irishexaminer.com/breakingnews/ireland/tributes-paid-following-death-of-limerick-bodybuilding-legend-909522.html"
                   rel="nofollow"
                   target="_blank"
                   class="btn btn-border-filled"
-                  >Purchase Now</a
+                  >Blue Shinners</a
                 >
                 <a
-                  href="https://rebrand.ly/slick-ud"
+                  href="https://fitnessvolt.com/35656/james-shinners-passed-away/"
                   rel="nofollow"
                   target="_blank"
                   class="btn btn-border page-scroll"
