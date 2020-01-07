@@ -793,8 +793,10 @@ Domain Path:      /languages/
        height: 15px; }
      #showcase .showcase-slider .screenshot-thumb {
        width: 100%;
-       height: 9em;
+       height: 20em;
        position: relative; }
+       #showcase .showcase-slider .screenshot-thumb img {
+        height: 15rem; }
        #showcase .showcase-slider .screenshot-thumb .fancy-table {
          padding-top: 72px; }
        #showcase .showcase-slider .screenshot-thumb p {

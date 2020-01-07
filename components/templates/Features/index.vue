@@ -5,12 +5,12 @@
         <div class="col-lg-12">
           <div class="features-text section-header text-center">
             <div>
-              <h2 class="section-title">Services We Provide</h2>
+              <h2 class="section-title">A man remebered</h2>
               <div class="desc-text">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do <br />
-                  eiusmod tempor incididunt ut labore et dolore.
+                  Blue Shinners was both my friend and coach. <br />
+                  This section is dedicated to the loving things people had to
+                  say about him.
                 </p>
               </div>
             </div>
@@ -25,11 +25,13 @@
               <i class="lni-coffee-cup"></i>
             </div>
             <div class="feature-info float-left">
-              <h4>Easy to Customize</h4>
+              <h4>Always Remembered</h4>
               <p>
-                Producing long lasting organic SEO results for <br />
-                brand of different kinds for more than a decade,<br />
-                we understand that’s your.
+                I’m terribly sad and shocked to hear of the passing yesterday of
+                Irish Bodybuilding Legend Blue James Shinners .. Champion
+                Bodybuilder, Coach , Judge , gentleman.. an inspiration to so
+                many, will be sadly missed by all .. heartfelt condolences to
+                his family and friends.. Rest In Peace my friend”
               </p>
             </div>
           </div>
@@ -41,43 +43,14 @@
               <i class="lni-briefcase"></i>
             </div>
             <div class="feature-info float-left">
-              <h4>Business Template</h4>
+              <h4>Never Forgotten</h4>
               <p>
-                Producing long lasting organic SEO results for <br />
-                brand of different kinds for more than a decade,<br />
-                we understand that’s your.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-          <div class="feature-item featured-border1">
-            <div class="feature-icon float-left">
-              <i class="lni-invention"></i>
-            </div>
-            <div class="feature-info float-left">
-              <h4>Clean & Trendy Design</h4>
-              <p>
-                Producing long lasting organic SEO results for <br />
-                brand of different kinds for more than a decade,<br />
-                we understand that’s your.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-6 col-md-6 col-xs-12 p-0">
-          <div class="feature-item featured-border2">
-            <div class="feature-icon float-left">
-              <i class="lni-layers"></i>
-            </div>
-            <div class="feature-info float-left">
-              <h4>Tons of Sections</h4>
-              <p>
-                Producing long lasting organic SEO results for <br />
-                brand of different kinds for more than a decade,<br />
-                we understand that’s your.
+                We are shocked and saddened to hear the news about the passing
+                of our good friend Blue Shinners always a gentleman and
+                supportive of our team here at Eiremuaysiam from day one and one
+                of the true pioneers and great promoters of Limerick sports you
+                will be sadly missed and our hearts goes out to all your friends
+                and family hope you all take care in this sad time
               </p>
             </div>
           </div>
@@ -89,11 +62,14 @@
               <i class="lni-reload"></i>
             </div>
             <div class="feature-info float-left">
-              <h4>Free Future Updates</h4>
+              <h4>A Legend</h4>
               <p>
-                Producing long lasting organic SEO results for <br />
-                brand of different kinds for more than a decade,<br />
-                we understand that’s your.
+                Very sad news…I knew Blue as we grew up around the corner from
+                each other. I met him most days in the gym and the last time we
+                spoke was yesterday. We talked about old times, the sport as it
+                is now and training and life in general. One of the last things
+                he said in that conversation was to a young Bodybuilder who came
+                into the changing rooms giving him some good advice as always.
               </p>
             </div>
           </div>
@@ -105,11 +81,10 @@
               <i class="lni-support"></i>
             </div>
             <div class="feature-info float-left">
-              <h4>Premier Support</h4>
+              <h4>A loving family man</h4>
               <p>
-                Producing long lasting organic SEO results for <br />
-                brand of different kinds for more than a decade,<br />
-                we understand that’s your.
+                A big hearted gentleman and genuine good guy he would always
+                have a smile a handshake and a cheeky anecdote to share
               </p>
             </div>
           </div>

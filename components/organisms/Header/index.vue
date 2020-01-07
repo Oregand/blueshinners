@@ -71,7 +71,7 @@
           </div>
           <div class="col-lg-6 col-md-12 col-xs-12 p-0">
             <div class="intro-img">
-              <img src="~/assets/img/intro.png" alt="" />
+              <img src="~/assets/img/blue.jpg" alt="" />
             </div>
           </div>
         </div>
