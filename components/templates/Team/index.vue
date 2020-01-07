@@ -33,19 +33,15 @@
               <div class="team-social-icons">
                 <ul class="social-list">
                   <li>
-                    <a href="#"><i class="lni-facebook-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-twitter-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-google-plus"></i></a>
+                    <a href="https://www.youtube.com/watch?v=tsZETi6YWZY">
+                      <font-awesome-icon :icon="faPlayCircle" />
+                    </a>
                   </li>
                 </ul>
               </div>
               <div class="team-inner text-center">
-                <h5 class="team-title">Patric Green</h5>
-                <p>Lead Designer</p>
+                <h5 class="team-title">Blue Shinners</h5>
+                <p>Arnold Pose</p>
               </div>
             </div>
           </div>
@@ -61,19 +57,15 @@
               <div class="team-social-icons">
                 <ul class="social-list">
                   <li>
-                    <a href="#"><i class="lni-facebook-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-twitter-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-google-plus"></i></a>
+                    <a href="https://www.youtube.com/watch?v=b2fN77z0tkE">
+                      <font-awesome-icon :icon="faPlayCircle" />
+                    </a>
                   </li>
                 </ul>
               </div>
               <div class="team-inner text-center">
-                <h5 class="team-title">Celina D Cruze</h5>
-                <p>Front-end Developer</p>
+                <h5 class="team-title">Blue Shinners</h5>
+                <p>Bicep Pose</p>
               </div>
             </div>
           </div>
@@ -82,26 +74,22 @@
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="single-team">
             <div class="team-thumb">
-              <img src="~/assets/img/3.jpg" class="img-fluid" alt="" />
+              <img src="~/assets/img/7.jpg" class="img-fluid" alt="" />
             </div>
 
             <div class="team-details">
               <div class="team-social-icons">
                 <ul class="social-list">
                   <li>
-                    <a href="#"><i class="lni-facebook-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-twitter-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-google-plus"></i></a>
+                    <a href="https://www.youtube.com/watch?v=Kdmrr8AqjpM">
+                      <font-awesome-icon :icon="faPlayCircle" />
+                    </a>
                   </li>
                 </ul>
               </div>
               <div class="team-inner text-center">
-                <h5 class="team-title">Daryl Dixon</h5>
-                <p>Content Writer</p>
+                <h5 class="team-title">Blue Shinners</h5>
+                <p>Side Lat Pose</p>
               </div>
             </div>
           </div>
@@ -110,26 +98,24 @@
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="single-team">
             <div class="team-thumb">
-              <img src="~/assets/img/4.jpg" class="img-fluid" alt="" />
+              <img src="~/assets/img/8.jpg" class="img-fluid" alt="" />
             </div>
 
             <div class="team-details">
               <div class="team-social-icons">
                 <ul class="social-list">
                   <li>
-                    <a href="#"><i class="lni-facebook-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-twitter-filled"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="lni-google-plus"></i></a>
+                    <a
+                      href="https://twitter.com/blueshinners/status/824306834811060229?lang=en"
+                    >
+                      <font-awesome-icon :icon="faPlayCircle" />
+                    </a>
                   </li>
                 </ul>
               </div>
               <div class="team-inner text-center">
-                <h5 class="team-title">Mark Parker</h5>
-                <p>Support Engineer</p>
+                <h5 class="team-title">Blue Shinners</h5>
+                <p>Most Muscular Pose</p>
               </div>
             </div>
           </div>
@@ -140,8 +126,18 @@
 </template>
 
 <script>
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+import { faPlayCircle } from '@fortawesome/free-regular-svg-icons'
+
 export default {
-  components: {}
+  components: {
+    FontAwesomeIcon
+  },
+  data() {
+    return {
+      faPlayCircle
+    }
+  }
 }
 </script>
 

@@ -65,7 +65,7 @@
             <div class="blog-item-text">
               <h3>
                 <a href="single-post.html"
-                  >Growth Techniques for <br />New Startups</a
+                  >Growth Techniques for <br />New Bodybuilders</a
                 >
               </h3>
               <p>
@@ -82,7 +82,7 @@
             </div>
             <div class="author">
               <span class="name"
-                ><i class="lni-user"></i><a href="#">Posted by Admin</a></span
+                ><i class="lni-user"></i><a href="#">Blue Shinners</a></span
               >
               <span class="date float-right"
                 ><i class="lni-calendar"></i
@@ -101,9 +101,7 @@
             </div>
             <div class="blog-item-text">
               <h3>
-                <a href="single-post.html"
-                  >Writing Professional <br />Emails to Customers</a
-                >
+                <a href="single-post.html">Bertil</a>
               </h3>
               <p>
                 Bertil was one of the most popular bodybuilders of that time. He
@@ -117,7 +115,7 @@
             </div>
             <div class="author">
               <span class="name"
-                ><i class="lni-user"></i><a href="#">Posted by Admin</a></span
+                ><i class="lni-user"></i><a href="#">Blue Shinners</a></span
               >
               <span class="date float-right"
                 ><i class="lni-calendar"></i

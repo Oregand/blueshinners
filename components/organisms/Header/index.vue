@@ -20,10 +20,14 @@
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="ml-auto">
-            <a v-smooth-scroll class="nav-link" href="#services">Services</a>
-            <a v-smooth-scroll class="nav-link" href="#business">Business</a>
-            <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
-            <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
+            <a v-smooth-scroll class="nav-link" href="#services">Who</a>
+            <a v-smooth-scroll class="nav-link" href="#business-plan">About</a>
+            <a v-smooth-scroll class="nav-link" href="#features">Memorial</a>
+            <a v-smooth-scroll class="nav-link" href="#showcase">Portfolio</a>
+            <a v-smooth-scroll class="nav-link" href="#pricing">Social Media</a>
+            <a v-smooth-scroll class="nav-link" href="#testimonial">Posing</a>
+            <a v-smooth-scroll class="nav-link" href="#team">Media</a>
+            <a v-smooth-scroll class="nav-link" href="#blog">Blog</a>
             <a v-smooth-scroll class="nav-link" href="#contact">Contact</a>
             <b-nav-item v-if="$auth.loggedIn" href="/admin">
               Dashboard
@@ -71,7 +75,7 @@
           </div>
           <div class="col-lg-6 col-md-12 col-xs-12 p-0">
             <div class="intro-img">
-              <img src="~/assets/img/intro.png" alt="" />
+              <img src="~/assets/img/blue.jpg" alt="" />
             </div>
           </div>
         </div>
