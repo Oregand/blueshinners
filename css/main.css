@@ -589,6 +589,8 @@ Domain Path:      /languages/
        #business-plan .business-item-info p {
          font-size: 16px;
          margin-bottom: 20px; }
+         #business-plan .business-item-img img {
+          border-radius: 5px; }
    
    /* ==========================================================================
       Features 
@@ -791,7 +793,7 @@ Domain Path:      /languages/
        height: 15px; }
      #showcase .showcase-slider .screenshot-thumb {
        width: 100%;
-       height: 100%;
+       height: 9em;
        position: relative; }
        #showcase .showcase-slider .screenshot-thumb .fancy-table {
          padding-top: 72px; }
@@ -843,7 +845,7 @@ Domain Path:      /languages/
       ========================================================================== */
    #testimonial {
      margin-bottom: 270px;
-     background: url('~assets/img/testimonial-bg.jpg') no-repeat center center;
+     background: url('~assets/img/3.jpg') no-repeat center center;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
@@ -874,10 +876,12 @@ Domain Path:      /languages/
          color: #151948;
          font-size: 18px; }
        #testimonial #client-testimonial h5 span {
-         font-size: 16px;
+         font-size: 12px;
          color: #5e629c;
          font-style: italic; }
-       #testimonial #client-testimonial .owl-controls .owl-buttons div.owl-prev {
+         #testimonial #client-testimonial .client-thumb {
+          height: 15rem; }
+       #testimonial #client-testimonial .owl-prev {
          color: #3ecf8e;
          display: inline-block;
          zoom: 1;
@@ -897,7 +901,7 @@ Domain Path:      /languages/
          width: 38px;
          height: 38px;
          padding: 8px 0px; }
-       #testimonial #client-testimonial .owl-controls .owl-buttons div.owl-next {
+       #testimonial #client-testimonial .owl-next {
          color: #3ecf8e;
          display: inline-block;
          zoom: 1;
@@ -1397,7 +1401,7 @@ Domain Path:      /languages/
       Footer section
       ========================================================================== */
    #footer-Content {
-     padding-top: 130px;
+     padding-top: 100px;
      background: #180e29; }
      #footer-Content .footer-logo img {
        padding-top: 70px; }

@@ -25,12 +25,6 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    Appropriately implement one-to-one catalysts for change
-                    <br />
-                    vis-a-vis wireless catalysts for change. Enthusiastically
-                    architect <br />
-                    adaptive e-tailers after sustainable total linkage.
-                    Appropriately <br />
                     implement one-to-one catalysts for change.
                   </p>
                   <div class="author-info">
@@ -38,7 +32,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="~/assets/img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/9.jpg" alt="" />
                 </div>
               </div>
             </div>
@@ -46,12 +40,6 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    Appropriately implement one-to-one catalysts for change
-                    <br />
-                    vis-a-vis wireless catalysts for change. Enthusiastically
-                    architect <br />
-                    adaptive e-tailers after sustainable total linkage.
-                    Appropriately <br />
                     implement one-to-one catalysts for change.
                   </p>
                   <div class="author-info">
@@ -59,7 +47,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="~/assets/img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/4.jpg" alt="" />
                 </div>
               </div>
             </div>
@@ -67,12 +55,6 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    Appropriately implement one-to-one catalysts for change
-                    <br />
-                    vis-a-vis wireless catalysts for change. Enthusiastically
-                    architect <br />
-                    adaptive e-tailers after sustainable total linkage.
-                    Appropriately <br />
                     implement one-to-one catalysts for change.
                   </p>
                   <div class="author-info">
@@ -80,70 +62,7 @@
                   </div>
                 </div>
                 <div class="client-thumb">
-                  <img src="~/assets/img/testimonial/01.png" alt="" />
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="testimonial-item">
-                <div class="content-inner">
-                  <p class="description">
-                    Appropriately implement one-to-one catalysts for change
-                    <br />
-                    vis-a-vis wireless catalysts for change. Enthusiastically
-                    architect <br />
-                    adaptive e-tailers after sustainable total linkage.
-                    Appropriately <br />
-                    implement one-to-one catalysts for change.
-                  </p>
-                  <div class="author-info">
-                    <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
-                  </div>
-                </div>
-                <div class="client-thumb">
-                  <img src="~/assets/img/testimonial/01.png" alt="" />
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="testimonial-item">
-                <div class="content-inner">
-                  <p class="description">
-                    Appropriately implement one-to-one catalysts for change
-                    <br />
-                    vis-a-vis wireless catalysts for change. Enthusiastically
-                    architect <br />
-                    adaptive e-tailers after sustainable total linkage.
-                    Appropriately <br />
-                    implement one-to-one catalysts for change.
-                  </p>
-                  <div class="author-info">
-                    <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
-                  </div>
-                </div>
-                <div class="client-thumb">
-                  <img src="~/assets/img/testimonial/01.png" alt="" />
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="testimonial-item">
-                <div class="content-inner">
-                  <p class="description">
-                    Appropriately implement one-to-one catalysts for change
-                    <br />
-                    vis-a-vis wireless catalysts for change. Enthusiastically
-                    architect <br />
-                    adaptive e-tailers after sustainable total linkage.
-                    Appropriately <br />
-                    implement one-to-one catalysts for change.
-                  </p>
-                  <div class="author-info">
-                    <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
-                  </div>
-                </div>
-                <div class="client-thumb">
-                  <img src="~/assets/img/testimonial/01.png" alt="" />
+                  <img src="~/assets/img/7.jpg" alt="" />
                 </div>
               </div>
             </div>

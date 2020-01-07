@@ -4,26 +4,29 @@
       <div class="row">
         <div class="col-lg-6 col-md-12 pl-0 pt-70 pr-5">
           <div class="business-item-img">
-            <img src="~/assets/img/business-img.png" class="img-fluid" alt="" />
+            <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
           </div>
         </div>
 
         <div class="col-lg-6 col-md-12 pl-4">
           <div class="business-item-info">
-            <h3>Crafted For Business, Startup and Agency Websites</h3>
+            <h3>Nine-time Mr Ireland winner</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+              Shinners lived in Ardnacrusha and opened his own gym in his 20’s
               <br />
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-              minim <br />
-              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-              ex ea <br />
-              commodo consequat. Duis aute irure dolor in reprehenderit in
-              voluptate <br />
-              velit esse cillum dolore eu fugiat nulla pariatur.
+              before he became a successful bodybuilding competitor, personal
+              trainer,<br />
+              bodybuilding judge, and boxing coach for the Irish Athletic Boxing
+              Association. <br />
+              He also placed top 6 at the Mr. Universe competition twice and
+              <br />
+              had a successful run in his home country of Ireland.
             </p>
-
-            <a class="btn btn-common" href="#">download</a>
+            <a
+              class="btn btn-common"
+              href="https://fitnessvolt.com/35656/james-shinners-passed-away/"
+              >Learn More</a
+            >
           </div>
         </div>
       </div>

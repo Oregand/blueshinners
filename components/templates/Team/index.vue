@@ -5,13 +5,17 @@
         <div class="col-lg-12">
           <div class="team-text section-header text-center">
             <div>
-              <h2 class="section-title">Team Members</h2>
+              <h2 class="section-title">In Loving Memory</h2>
               <div class="desc-text">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do
+                  He won a lifetime achievement award from NABBA and was well
+                  known for his involvement with the sport of boxing alongside
+                  his passion of bodybuilding.
                 </p>
-                <p>eiusmod tempor incididunt ut labore et dolore.</p>
+                <p>
+                  He also placed top 6 at the Mr. Universe competition twice and
+                  had a successful run in his home country of Ireland.
+                </p>
               </div>
             </div>
           </div>
@@ -22,7 +26,7 @@
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="single-team">
             <div class="team-thumb">
-              <img src="img/team/01.jpg" class="img-fluid" alt="" />
+              <img src="~/assets/img/6.jpg" class="img-fluid" alt="" />
             </div>
 
             <div class="team-details">
@@ -50,7 +54,7 @@
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="single-team">
             <div class="team-thumb">
-              <img src="img/team/02.jpg" class="img-fluid" alt="" />
+              <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
             </div>
 
             <div class="team-details">
@@ -78,7 +82,7 @@
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="single-team">
             <div class="team-thumb">
-              <img src="img/team/03.jpg" class="img-fluid" alt="" />
+              <img src="~/assets/img/3.jpg" class="img-fluid" alt="" />
             </div>
 
             <div class="team-details">
@@ -106,7 +110,7 @@
         <div class="col-lg-3 col-md-6 col-xs-12">
           <div class="single-team">
             <div class="team-thumb">
-              <img src="img/team/04.jpg" class="img-fluid" alt="" />
+              <img src="~/assets/img/4.jpg" class="img-fluid" alt="" />
             </div>
 
             <div class="team-details">

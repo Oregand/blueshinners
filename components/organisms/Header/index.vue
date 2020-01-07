@@ -11,7 +11,7 @@
         type="light"
         class="navbar navbar-expand-md bg-inverse fixed-top scrolling-navbar"
       >
-        <b-navbar-brand href="https://nuxtjs.org">
+        <b-navbar-brand href="/">
           <img
             src="https://nuxtjs.org/logos/nuxt-emoji-white.png"
             height="50"
@@ -20,19 +20,24 @@
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav class="ml-auto">
-            <b-nav-item-dropdown text="Lang" right>
-              <b-dropdown-item href="#">EN</b-dropdown-item>
-              <b-dropdown-item href="#">ES</b-dropdown-item>
-              <b-dropdown-item href="#">RU</b-dropdown-item>
-              <b-dropdown-item href="#">FA</b-dropdown-item>
-            </b-nav-item-dropdown>
-
+            <a v-smooth-scroll class="nav-link" href="#services">Services</a>
+            <a v-smooth-scroll class="nav-link" href="#business">Business</a>
+            <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
+            <a v-smooth-scroll class="nav-link" href="#services">Anchor</a>
+            <a v-smooth-scroll class="nav-link" href="#contact">Contact</a>
+            <b-nav-item v-if="$auth.loggedIn" href="/admin">
+              Dashboard
+            </b-nav-item>
             <b-nav-item-dropdown right>
               <template v-slot:button-content>
-                <em>User</em>
+                <em>Profile</em>
               </template>
-              <b-dropdown-item href="#">Profile</b-dropdown-item>
-              <b-dropdown-item href="#">Sign Out</b-dropdown-item>
+              <b-dropdown-item v-if="!$auth.loggedIn" @click="login()" href="#"
+                >Login</b-dropdown-item
+              >
+              <b-dropdown-item v-if="$auth.loggedIn" @click="logout()" href="#"
+                >Sign Out</b-dropdown-item
+              >
             </b-nav-item-dropdown>
           </b-navbar-nav>
         </b-collapse>
@@ -48,14 +53,14 @@
               </p>
               <div class="header-button">
                 <a
-                  href="https://rebrand.ly/slick-ud"
+                  href="https://www.irishexaminer.com/breakingnews/ireland/tributes-paid-following-death-of-limerick-bodybuilding-legend-909522.html"
                   rel="nofollow"
                   target="_blank"
                   class="btn btn-border-filled"
-                  >Purchase Now</a
+                  >Blue Shinners</a
                 >
                 <a
-                  href="https://rebrand.ly/slick-ud"
+                  href="https://fitnessvolt.com/35656/james-shinners-passed-away/"
                   rel="nofollow"
                   target="_blank"
                   class="btn btn-border page-scroll"
@@ -77,7 +82,15 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
+  methods: {
+    login() {
+      this.$auth.loginWith('auth0')
+    },
+    async logout() {
+      await this.$auth.logout()
+    }
+  }
 }
 </script>
 
