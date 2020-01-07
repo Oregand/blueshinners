@@ -5,13 +5,12 @@
         <div class="col-lg-12">
           <div class="showcase-text section-header text-center">
             <div>
-              <h2 class="section-title">Recent Works</h2>
+              <h2 class="section-title">Portfolio</h2>
               <div class="desc-text">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                  do
+                  See some of the best Ireland had to offer.
                 </p>
-                <p>eiusmod tempor incididunt ut labore et dolore.</p>
+                <p>A legand is born.</p>
               </div>
             </div>
           </div>
@@ -23,11 +22,7 @@
           <carousel :items="5" class="showcase-slider">
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/01.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/1.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -36,7 +31,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/1.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -48,11 +43,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/02.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/8.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -61,7 +52,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/02.jpg"
+                        <a class="lightbox" href="img/8.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -73,11 +64,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/03.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/9.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -86,7 +73,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/03.jpg"
+                        <a class="lightbox" href="img/9.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -98,11 +85,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/04.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/4.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -111,7 +94,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/04.jpg"
+                        <a class="lightbox" href="img/4.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -123,11 +106,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/05.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -136,7 +115,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/05.jpg"
+                        <a class="lightbox" href="img/5.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -148,11 +127,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/01.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/6.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -161,7 +136,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -173,11 +148,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/02.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/8.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -186,7 +157,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/02.jpg"
+                        <a class="lightbox" href="img/8.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -198,11 +169,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/03.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/9.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -211,7 +178,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/03.jpg"
+                        <a class="lightbox" href="img/9.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -223,11 +190,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/04.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/4.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -236,7 +199,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/04.jpg"
+                        <a class="lightbox" href="img/4.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -248,11 +211,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/05.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -261,7 +220,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/05.jpg"
+                        <a class="lightbox" href="img/5.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -273,11 +232,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/01.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/6.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -286,7 +241,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -298,11 +253,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/02.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/8.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -311,7 +262,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -323,11 +274,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/03.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/9.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -336,7 +283,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -348,11 +295,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/04.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/4.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -361,7 +304,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -373,11 +316,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/05.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -386,7 +325,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -398,11 +337,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/01.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/6.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -411,7 +346,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -423,11 +358,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/02.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/8.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -436,7 +367,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -448,11 +379,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/03.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/9.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -461,7 +388,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/6.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -473,11 +400,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/04.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/4.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -486,7 +409,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/1.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -498,11 +421,7 @@
             </div>
             <div class="item">
               <div class="screenshot-thumb">
-                <img
-                  src="~/assets/img/showcase/05.jpg"
-                  class="img-fluid"
-                  alt=""
-                />
+                <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
@@ -511,7 +430,7 @@
                         <h5>Redesign Slack</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/showcase/01.jpg"
+                        <a class="lightbox" href="img/1.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
