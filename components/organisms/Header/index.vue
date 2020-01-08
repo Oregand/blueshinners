@@ -53,7 +53,7 @@
               <h2 class="head-title">In Loving Memory Of Blue Shinners</h2>
               <p>
                 This website is dedicated to the memory of a great man with a
-                big vision.
+                big vision. Rest In Peace Blue.
               </p>
               <div class="header-button">
                 <a
