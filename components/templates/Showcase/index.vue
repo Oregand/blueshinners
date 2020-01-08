@@ -22,16 +22,16 @@
           <carousel :items="5" class="showcase-slider">
             <div class="item">
               <div class="screenshot-thumb">
-                <img src="~/assets/img/1.jpg" class="img-fluid" alt="" />
+                <img src="~/assets/img/7.jpg" class="img-fluid" alt="" />
                 <div class="hover-content text-center">
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/1.jpg"
+                        <a class="lightbox" href="img/7.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -48,8 +48,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/8.jpg"
@@ -69,8 +69,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/9.jpg"
@@ -90,8 +90,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/4.jpg"
@@ -111,8 +111,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/5.jpg"
@@ -132,8 +132,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -153,8 +153,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/8.jpg"
@@ -174,8 +174,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/9.jpg"
@@ -195,8 +195,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/4.jpg"
@@ -216,8 +216,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/5.jpg"
@@ -237,8 +237,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -258,8 +258,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -279,8 +279,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -300,8 +300,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -321,8 +321,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -342,8 +342,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -363,8 +363,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -384,8 +384,8 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
                         <a class="lightbox" href="img/6.jpg"
@@ -405,11 +405,11 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/1.jpg"
+                        <a class="lightbox" href="img/7.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>
@@ -426,11 +426,11 @@
                   <div class="fancy-table">
                     <div class="table-cell">
                       <div class="single-text">
-                        <p>Icon , Web</p>
-                        <h5>Redesign Slack</h5>
+                        <p>Mr Ireland</p>
+                        <h5>Blue Shinners</h5>
                       </div>
                       <div class="zoom-icon">
-                        <a class="lightbox" href="img/1.jpg"
+                        <a class="lightbox" href="img/7.jpg"
                           ><i class="lni-zoom-in"></i
                         ></a>
                         <a href="#"><i class="lni-link"></i></a>

@@ -1,6 +1,6 @@
 # blueshinners
 
-> My terrific Nuxt.js project
+> A memorial website for the late and great Blue Shinners
 
 ## Build Setup
 

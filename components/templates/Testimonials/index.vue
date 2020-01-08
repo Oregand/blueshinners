@@ -25,10 +25,14 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    implement one-to-one catalysts for change.
+                    One of the best irish bodybuilders ever.<br />
+                    I miss Blue terribly, he came into my life at a rough time
+                    <br />
+                    and helped me through it with a love for the sport of
+                    bodybuilding
                   </p>
                   <div class="author-info">
-                    <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
+                    <h5>David O'Regan ; <span> Friend</span></h5>
                   </div>
                 </div>
                 <div class="client-thumb">
@@ -40,10 +44,13 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    implement one-to-one catalysts for change.
+                    I knew Blue as we grew up around the corner from each other.
+                    I met him most days in the gym and the last time we spoke
+                    was yesterday. We talked about old times, the sport as it is
+                    now and training and life in general
                   </p>
                   <div class="author-info">
-                    <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
+                    <h5>Rich Hawk ; <span> Friend</span></h5>
                   </div>
                 </div>
                 <div class="client-thumb">
@@ -55,10 +62,12 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    implement one-to-one catalysts for change.
+                    rish Bodybuilding Legend Blue James Shinners .. Champion
+                    Bodybuilder, Coach , Judge , gentleman.. an inspiration to
+                    so many, will be sadly missed by all
                   </p>
                   <div class="author-info">
-                    <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
+                    <h5>Si Sweeney ; <span> Friend</span></h5>
                   </div>
                 </div>
                 <div class="client-thumb">

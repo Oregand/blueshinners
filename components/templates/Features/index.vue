@@ -5,7 +5,7 @@
         <div class="col-lg-12">
           <div class="features-text section-header text-center">
             <div>
-              <h2 class="section-title">A man remebered</h2>
+              <h2 class="section-title">A legand made</h2>
               <div class="desc-text">
                 <p>
                   Blue Shinners was both my friend and coach. <br />
