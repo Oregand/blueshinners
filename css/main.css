@@ -613,7 +613,8 @@ Domain Path:      /languages/
        overflow: hidden;
        -moz-transition: all .8s ease;
        -webkit-transition: all .8s ease;
-       transition: all .8s ease; }
+       transition: all .8s ease;
+       height: 25rem; }
        #features .feature-item .feature-icon {
          background: #e3fff2;
          width: 100px;
@@ -864,8 +865,7 @@ Domain Path:      /languages/
        position: absolute;
        width: 100%;
        z-index: 12;
-       top: 260px;
-       margin: 0px auto; }
+       top: 260px; }
      #testimonial #client-testimonial {
        background-color: #fff;
        padding: 54px;

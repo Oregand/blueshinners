@@ -17,8 +17,8 @@
 
       <div class="row justify-content-center testimonial-area">
         <div
-          class="col-lg-10 col-md-12 col-sm-12 col-xs-12 pr-20 pl-20"
-          style="overflow: hidden;padding-bottom: 60px"
+          class="col-lg-10 col-md-12 col-sm-12 col-xs-12"
+          style="overflow: hidden; padding-bottom: 60px"
         >
           <carousel id="client-testimonial" :items="1" class="text-center">
             <div class="item">
@@ -28,8 +28,8 @@
                     One of the best irish bodybuilders ever.<br />
                     I miss Blue terribly, he came into my life at a rough time
                     <br />
-                    and helped me through it with a love for the sport of
-                    bodybuilding
+                    and helped me through it with developing a love for the
+                    sport of bodybuilding
                   </p>
                   <div class="author-info">
                     <h5>David O'Regan ; <span> Friend</span></h5>
@@ -50,7 +50,7 @@
                     now and training and life in general
                   </p>
                   <div class="author-info">
-                    <h5>Rich Hawk ; <span> Friend</span></h5>
+                    <h5>David O'Regan ; <span> Friend</span></h5>
                   </div>
                 </div>
                 <div class="client-thumb">
@@ -67,7 +67,7 @@
                     so many, will be sadly missed by all
                   </p>
                   <div class="author-info">
-                    <h5>Si Sweeney ; <span> Friend</span></h5>
+                    <h5>David O'Regan ; <span> Friend</span></h5>
                   </div>
                 </div>
                 <div class="client-thumb">

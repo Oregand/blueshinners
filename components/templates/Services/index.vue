@@ -2,7 +2,7 @@
   <section id="services" class="section">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 col-md-6 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12">
           <div class="services-item text-center">
             <div class="icon">
               <img src="~/assets/img/9.jpg" alt="" class="img-fluid" />
@@ -15,7 +15,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12">
           <div class="services-item text-center">
             <div class="icon">
               <img src="~/assets/img/7.jpg" alt="" class="img-fluid" />
@@ -28,7 +28,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 col-xs-12">
+        <div class="col-lg-4 col-md-12 col-xs-12">
           <div class="services-item text-center">
             <div class="icon">
               <img src="~/assets/img/8.jpg" alt="" class="img-fluid" />

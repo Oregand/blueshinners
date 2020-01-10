@@ -2,7 +2,7 @@
   <section id="business-plan">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-md-12 pl-0 pt-70 pr-5">
+        <div class="col-lg-6 col-md-12 mt-5">
           <div class="business-item-img">
             <img src="~/assets/img/5.jpg" class="img-fluid" alt="" />
           </div>
