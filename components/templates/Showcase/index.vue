@@ -18,8 +18,17 @@
       </div>
 
       <div class="row justify-content-center showcase-area">
-        <div class="col-lg-12 col-md-12 col-xs-12 pr-0">
-          <carousel :items="5" class="showcase-slider">
+        <div class="col-lg-12 col-md-12 col-xs-12">
+          <carousel
+            :items="5"
+            :responsive="{
+              200: { items: 2, nav: false },
+              600: { items: 3, nav: false },
+              900: { items: 4, nav: false },
+              1200: { items: 6, nav: false }
+            }"
+            class="showcase-slider"
+          >
             <div class="item">
               <div class="screenshot-thumb">
                 <img src="~/assets/img/7.jpg" class="img-fluid" alt="" />
