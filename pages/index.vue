@@ -32,6 +32,13 @@ import Showcase from '~/components/templates/Showcase'
 import Features from '~/components/templates/Features'
 
 export default {
+  head() {
+    return {
+      script: [
+        { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }
+      ]
+    }
+  },
   components: {
     Header,
     Footer,
