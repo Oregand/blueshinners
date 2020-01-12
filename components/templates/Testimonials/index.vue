@@ -44,10 +44,13 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    I knew Blue as we grew up around the corner from each other.
-                    I met him most days in the gym and the last time we spoke
-                    was yesterday. We talked about old times, the sport as it is
-                    now and training and life in general
+                    A amazing man with a big heart.<br />
+                    Blue was always a breath of fresh air to speak to
+                    <br />
+                    he always had a big smile on his face and was happy to see
+                    you.
+                    <br />
+                    No question was too big or too small.
                   </p>
                   <div class="author-info">
                     <h5>David O'Regan ; <span> Friend</span></h5>
@@ -62,9 +65,11 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    rish Bodybuilding Legend Blue James Shinners .. Champion
-                    Bodybuilder, Coach , Judge , gentleman.. an inspiration to
-                    so many, will be sadly missed by all
+                    One of the best irish bodybuilders ever.<br />
+                    I miss Blue terribly, he came into my life at a rough time
+                    <br />
+                    and helped me through it with developing a love for the
+                    sport of bodybuilding
                   </p>
                   <div class="author-info">
                     <h5>David O'Regan ; <span> Friend</span></h5>
