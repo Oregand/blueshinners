@@ -6,10 +6,10 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'memorial'
+    label: 'Memorial'
     format: 'json'
-    folder: 'assets/content/blog'
+    folder: 'assets/content/memorial'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
