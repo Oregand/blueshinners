@@ -65,11 +65,12 @@
               <div class="testimonial-item">
                 <div class="content-inner">
                   <p class="description">
-                    One of the best irish bodybuilders ever.<br />
-                    I miss Blue terribly, he came into my life at a rough time
+                    The legand.<br />
+                    Blue was a legend in his time.
                     <br />
-                    and helped me through it with developing a love for the
-                    sport of bodybuilding
+                    Nine times Mr Ireland, a gym owner and a personal trainer.
+                    <br />
+                    No one was like him.
                   </p>
                   <div class="author-info">
                     <h5>David O'Regan ; <span> Friend</span></h5>
