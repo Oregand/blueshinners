@@ -51,7 +51,8 @@ export default {
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
-    '@nuxtjs/auth'
+    '@nuxtjs/auth',
+    '@nuxtjs/markdownit'
   ],
   /*
    ** Axios module configuration
@@ -71,6 +72,9 @@ export default {
         client_id: '6kE8FfP3MxSySvNPPWQqzUE4h4Ep48ZV'
       }
     }
+  },
+  markdownit: {
+    injected: true
   },
   /*
    ** Build configuration
