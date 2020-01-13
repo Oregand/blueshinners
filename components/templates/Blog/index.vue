@@ -30,10 +30,9 @@
             </div>
             <div class="blog-item-text">
               <h3>
-                <a
-                  href="https://www.instagram.com/p/Bj9DUDEjNaL/?utm_source=ig_embed"
-                  >{{ post.title }}</a
-                >
+                <nuxt-link :to="`/memorial/${post.slug}`">{{
+                  post.title
+                }}</nuxt-link>
               </h3>
               <p>
                 {{ post.body }}
