@@ -84,5 +84,16 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {}
+  },
+  generate: {
+    routes() {
+      const fs = require('fs')
+      return fs.readdirSync('./assets/content/memorial').map((file) => {
+        return {
+          route: `/memorial/${file.slice(2, -5)}`,
+          payload: require(`./assets/content/memorial/${file}`)
+        }
+      })
+    }
   }
 }
