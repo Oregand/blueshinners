@@ -29,19 +29,11 @@
             <a v-smooth-scroll class="nav-link" href="#team">Media</a>
             <a v-smooth-scroll class="nav-link" href="#blog">Blog</a>
             <a v-smooth-scroll class="nav-link" href="#contact">Contact</a>
-            <b-nav-item v-if="$auth.loggedIn" href="/admin">
-              Dashboard
-            </b-nav-item>
             <b-nav-item-dropdown right>
               <template v-slot:button-content>
                 <em>Profile</em>
               </template>
-              <b-dropdown-item v-if="!$auth.loggedIn" @click="login()" href="#"
-                >Login</b-dropdown-item
-              >
-              <b-dropdown-item v-if="$auth.loggedIn" @click="logout()" href="#"
-                >Sign Out</b-dropdown-item
-              >
+              <b-dropdown-item href="/admin">Admin</b-dropdown-item>
             </b-nav-item-dropdown>
           </b-navbar-nav>
         </b-collapse>
@@ -86,15 +78,7 @@
 
 <script>
 export default {
-  components: {},
-  methods: {
-    login() {
-      this.$auth.loginWith('auth0')
-    },
-    async logout() {
-      await this.$auth.logout()
-    }
-  }
+  components: {}
 }
 </script>
 
