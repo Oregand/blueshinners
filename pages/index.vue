@@ -12,7 +12,7 @@
       <Testimonials />
     </client-only>
     <Team />
-    <Blog />
+    <Blog :posts="memorialPosts" />
     <Contact />
     <Footer />
   </div>
@@ -51,6 +51,11 @@ export default {
     Pricing,
     Showcase,
     Features
+  },
+  computed: {
+    memorialPosts() {
+      return this.$store.state.memorialPosts
+    }
   }
 }
 </script>
