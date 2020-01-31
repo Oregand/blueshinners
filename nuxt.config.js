@@ -52,7 +52,8 @@ export default {
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
     '@nuxtjs/auth',
-    '@nuxtjs/markdownit'
+    '@nuxtjs/markdownit',
+    '@nuxtjs/sentry'
   ],
   /*
    ** Axios module configuration
@@ -75,6 +76,10 @@ export default {
   },
   markdownit: {
     injected: true
+  },
+  sentry: {
+    dsn: 'https://d9c3a207e50d4cf980656f5c0b970bbd@sentry.io/2129220',
+    config: {}
   },
   /*
    ** Build configuration
