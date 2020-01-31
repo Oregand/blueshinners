@@ -31,12 +31,16 @@ export default {
     Header,
     Footer
   },
-  async asyncData({ params, payload }) {
-    if (payload) return { memorialPost: payload }
-    else
-      return {
-        memorialPost: await require(`~/assets/content/memorial/${params.memorial}.json`)
-      }
+  async asyncData({ params, payload, $sentry }) {
+    try {
+      if (payload) return { memorialPost: payload }
+      else
+        return {
+          memorialPost: await require(`~/assets/content/memorial/${params.memorial}.json`)
+        }
+    } catch (error) {
+      $sentry.captureException(error)
+    }
   }
 }
 </script>
