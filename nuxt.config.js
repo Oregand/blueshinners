@@ -78,7 +78,7 @@ export default {
     injected: true
   },
   sentry: {
-    dsn: 'https://d9c3a207e50d4cf980656f5c0b970bbd@sentry.io/2129220',
+    dsn: 'https://5e19bcdbe57c405898e1593357f721f0@sentry.io/5167850',
     config: {}
   },
   /*
